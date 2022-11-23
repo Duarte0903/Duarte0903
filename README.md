@@ -1,3 +1,5 @@
+### Hello there 👋
+
 ![](https://komarev.com/ghpvc/?username=Duarte0903&color=006bed)
 
 <h3> :rocket: &nbsp;Skills </h3>
