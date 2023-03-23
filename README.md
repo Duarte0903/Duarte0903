@@ -6,7 +6,7 @@
   <p>
     Currently studying software engineering at the University of Minho (Braga, Portugal) <br>
     Interested in web and mobile development <br>
-    Proud <a href="https://fsuminho.github.io/website/">FSUMinho Formula Student Team</a> member
+    Proud member of <a href="https://fsuminho.github.io/website/">FSUMinho Formula Student Team</a>
   </p>
 </div>
 
