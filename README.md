@@ -1,4 +1,6 @@
-<h1 align="center">Hello there 👋</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caprasimo&weight=600&size=30&pause=1000&color=FFCA72&center=true&vCenter=true&width=600&lines=Hello there 👋" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
   <h3>About Me 🔍</h3>
@@ -74,10 +76,11 @@
   <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Duarte's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Duarte0903&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duarte0903&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10&hide=pug,roff" height="192px"/></a>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Duarte0903&show_icons=true&count_private=true&hide_border=true&title_color=8B0000&icon_color=8B0000&text_color=c9d1d9&bg_color=0d1117&theme=transparent" alt="vasco-faria" /></p>
+</div>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
-</div>
 
 
 <br/>
