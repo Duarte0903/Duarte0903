@@ -1,86 +1,88 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caprasimo&weight=600&size=30&pause=1000&color=FFCA72&center=true&vCenter=true&width=600&lines=Hello there 👋" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFCA72&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Duarte+Leitão;Software+Engineering+Student" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <h3>About Me 🔍</h3>
-  
-  <p>
-    Currently studying software engineering at the University of Minho (Braga, Portugal) <br>
-    Interested in web and mobile development <br>
-    Proud member of <a href="https://fsuminho.github.io/website/">FSUMinho Formula Student Team</a>
-  </p>
-</div>
+<h1 align="center">Duarte Leitão</h1>
 
 <div align="center">
-  <h3>Social Media 📱</h3>
-  
-  <a href="https://www.linkedin.com/in/duarte-leit%C3%A3o-7b0a6624b/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  <b>Building ideas, writing code, learning everyday.</b>
+</div>
+
+---
+
+### 🧠 About Me
+- 🎓 Software Engineering @ **University of Minho** (Braga, Portugal)
+- 💻 Passionate about **Web**, **Mobile**, and **Cloud Development**
+- 🏎️ Member of [**FSUMinho - Formula Student Team**](https://fsuminho.github.io/website/)
+- 🚀 Always striving to improve and take on new challenges
+
+---
+
+### 🌎 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/duarte-leit%C3%A3o-7b0a6624b/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  
-  <a href="https://www.instagram.com/duarte_ml9/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  <a href="https://www.instagram.com/duarte_ml9/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  
-  <a href="mailto: duarte0903@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website Badge">
+  <a href="mailto:duarte0903@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</div>
-
-<div align="center">
-  <h3>Languages 💻</h3>
-  
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) <br>
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-</div>
-
-<div align="center">
-  <h3>Frameworks ⚙️</h3>
-
-  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-  ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) <br>
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-</div>
-  
-<div align="center">
-  <h3>DevOps 🧑‍💻</h3>
-  
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-</div>
-
-<div align="center">
-  <h3>Tools 🛠️</h3>
-  
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) <br>
-  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-  ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-</div>
-
-<div align="center">
-  <h3>GitHub Stats 📊</h3>
-
-  <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Duarte's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Duarte0903&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duarte0903&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10&hide=pug,roff" height="192px"/></a>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Duarte0903&show_icons=true&count_private=true&hide_border=true&title_color=8B0000&icon_color=8B0000&text_color=c9d1d9&bg_color=0d1117&theme=transparent"/></p>
-</div>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
+---
 
-<br/>
+### 🛠️ Tech Stack
+
+#### Languages
+<p align="center">
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white">
+</p>
+
+#### Frameworks & Platforms
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img alt="Blazor" src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white">
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+</p>
+
+#### Tools & DevOps
+<p align="center">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+  <img alt="Vim" src="https://img.shields.io/badge/Vim-11AB00?style=for-the-badge&logo=vim&logoColor=white">
+</p>
+
+---
+
+### 📈 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Duarte0903&show_icons=true&theme=react&bg_color=0d1117&title_color=FFCA72&icon_color=FFCA72&text_color=ffffff&border_radius=10" alt="Duarte's GitHub Stats" style="max-width: 100%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Duarte0903&theme=react&background=0d1117&currStreakLabel=FFCA72&fire=FFCA72&sideLabels=ffffff&currStreakNum=FFCA72&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" style="max-width: 100%;">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duarte0903&layout=compact&theme=react&bg_color=0d1117&title_color=FFCA72&text_color=ffffff&border_radius=10" alt="Top Languages" style="max-width: 100%;">
+</div>
+
+---
+
+<div align="center">
+  <i>🚀 "Top Languages" only considers public code. Private and university projects are not included.</i>
+</div>
